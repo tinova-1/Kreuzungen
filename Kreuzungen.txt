@@ -353,7 +353,16 @@
 🇩🇪,51.556452094731675, 7.251833135279733,Herne,???,Flachkreuzung,⭐⭐⭐ 
 🇩🇪,51.668282761167966, 7.80327775152091,Hamm,Zufahrt zu Fabrik,2 Supersteilkreuzungen obT,⭐⭐⭐
 🇫🇷,47.75089446843098, 7.294645066950847, Mulhouse,❓,Fünfwegweiche,⭐⭐⭐,"mulhouse1.jpg,mulhouse2.jpg"
-
+🇩🇪,49.15384298217326, 9.2181079018739, Heilbronn Industrieplatz,Industriegleis kreuzt Straßenbahn und Gleisverschlingung,obT,⭐⭐⭐
+🇩🇪,49.15594431243815, 9.218173199568833,Heilbronn Industrieplatz, Ausfädelung,Gleisverschlingungsausfädelung,⭐⭐
+🇩🇪,49.16311994616975, 9.219792754795424,Heilbronn Hans-Rieser-Platz, Industriegleis kreuzt Straßenbahn, Bogenkreuzungen obT,⭐⭐⭐
+🇩🇪,49.16934929454587, 9.207420115661419,Heilbronn Karl-Wüst-Straße,KaW, Bogenkreuzung obT,⭐⭐
+🇩🇪,49.17335491260837, 9.207344932881746,Heilbronn Kohlekraftwerk, Fabrikzufahrt,Supersteil-Bogenkreuzung obT,⭐⭐
+🇩🇪,49.174825788916024, 9.208609683592664,Heilbronn Kohlekraftwerk,Kreuzung in Fabrik,Supersteil-Bogenkreuzung obT,⭐⭐
+🇩🇪,49.16592834985425, 9.224721788550257,Heilbronn Läpple,Industriegleis kreuzt Straßenbahn, 2 Bogenkreuzungen obT, ⭐⭐⭐
+🇩🇪,49.14145216110517, 9.202155904479959,Heilbronn Hbf,Ansammlung von Kreuzungen,4 Kreuzungen obT,⭐⭐⭐
+🇩🇪,50.99163060880439, 11.317991047791429,Weimar Hbf, klassischer Abzweig,Kreuzung obT,⭐
+🇩🇪,49.23230384129676, 9.197635376925305,Heilbronn Hbf,KaW,Steilkreuzung obT,⭐⭐
 
 
 # https://web.archive.org/web/20200713191132/https://twitter.com/hashtag/%E3%83%A0%E3%83%A9%E3%82%AF%E3%83%A2%E6%A1%88%E4%BB%B6
