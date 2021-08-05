@@ -363,6 +363,9 @@
 🇩🇪,49.14145216110517, 9.202155904479959,Heilbronn Hbf,Ansammlung von Kreuzungen,4 Kreuzungen obT,⭐⭐⭐
 🇩🇪,50.99163060880439, 11.317991047791429,Weimar Hbf, klassischer Abzweig,Kreuzung obT,⭐
 🇩🇪,49.23230384129676, 9.197635376925305,Heilbronn Hbf,KaW,Steilkreuzung obT,⭐⭐
+🇨🇿,50.06711656565439, 12.379933808341502,Cheb,Streckenkreuzung da Gbf auf gegenüberliegender Seite, 2 Kreuzungen obT, ⭐⭐
+🇩🇪,49.43190633292147, 11.12780680901395, Nürnberg Dutzendteich, Streckenkreuzung, 2 Kreuzungen obT, ❓
+
 
 
 # https://web.archive.org/web/20200713191132/https://twitter.com/hashtag/%E3%83%A0%E3%83%A9%E3%82%AF%E3%83%A2%E6%A1%88%E4%BB%B6
