@@ -1,0 +1,374 @@
+﻿Land,Ort,N,E,Funktion,Technik,Bewertung,Foto
+DE,Duisburg-Baerl,51.4838404,6.6661956,,Super-Steilkreuzung obT,+++,"img/duisburgbaerl1.jpg,img/duisburgbaerl2.PNG"
+DE,Worms Hbf,49.644039678513764,8.35828284723243,1×3,obT,+++,"dwg/worms.png"
+DE,Worms Hbf,49.64349669709205,8.358256991805717,Hosenträger,obT,+
+DE,Mannheim Hbf,49.47650729318349,8.441632937451125,Flachkreuzung,Ersatz für EKW,++
+DE,Mannheim Hbf,49.48194858867222,8.458670626782801,einspuriger Abzweig,Bogenkreuzung obT,++,"dwg/mannheim.png"
+DE,Ludwigshafen Hbf,49.47365066301022,8.43122846780869,schneller Hosenträger,obT,+,"dwg/ludwigshafen2.png"
+DE,Ludwigshafen Hbf,49.4728996567842,8.430691147747973,klassischer Abzweig,Flachkreuzung,+,"dwg/ludwigshafen2.png"
+DE,Stolberg (Rheinl),50.79378747211246,6.215594658015884,zufahrt zum Rbf kreuzt Stumpfgleis,Steilkreuzung obT,+++
+DE,Herzogenrath,50.8767031885068,6.0929623009314255,1×2 Streckenkreuzung zum Gbf,obT,+++
+DE,Rheydt Hbf,51.16039533376255,6.439246207264337,verlängerter Abzweig,obT,++
+DE,Braunschweig Abzw. Schmiedekamp,52.26057917842956,10.570190848364946,1×2 Streckenkreuzung,Steilkreuzungen obT,+++,"img/braunschweigschmiedekamp.pdf,img/schmiedekamp.jpg, dwg/braunschweig.png"
+DE,Braunschweig,52.254744817460114,10.574730625919221,Streckenkreuzungs-Hosenträger,Steilkreuzung obT,++,"dwg/braunschweig.png"
+DE,Braunschweig,52.25451491322719,10.544009973611999,,3 Steilkreuzungen obT,+++
+DE,Braunschweig,52.25395659492985,10.542558514223382,Hosenträger wYww,Steilkreuzung obT,+
+DE,Braunschweig,52.25055700728502,10.537375207519078,mit Weichen zur EKW,obT,++
+DE,Braunschweig Hbf,52.2594178010119,10.554338481720876,asymmetrischer Hosenträger DDDD,Steilkreuzung obT,++
+DE,Dortmund Hbf,51.5186968292784,7.4660500403112335,Doppelspur-Gleisverbinung,,+,"dwg/dortmund.png"
+DE,Dortmund Hbf,51.51718408646629,7.453720510758935,1×2,Steilkreuzungen obT,+++,"dwg/dortmund2.png"
+DE,Abzw. Feldmark,51.69718076750289,7.788642195680492,klassischer Abzweig,Flachkreuzung,+
+DE,im Süden von Münster,51.916949976844315,7.636957765281543,klassischer Abzweig,Bogen-Flachkreuzung,+
+DE,Leipzig-Wahren,51.3797601078562,12.324387408913662,1×2 Streckenkreuzung zum Gbf,Flachkreuzungen,+++,"dwg/wahren.png"
+DE,Leipzig-Wahren,51.37550571985975,12.328176120513305,klassischer Abzweig,Bogenkreuzung obT auf Viadukt,+
+DE,Beckedorf (Südheide),52.814370354399585,10.05725507659263,,obT,+++,"beckedorf.png"
+DE,Kreiensen,51.85035159203031,9.969387747447822,schneller Hosenträger *Wwww,Steilkreuzung obT,++,"https://web.archive.org/web/20200710173348/https://www.flickr.com/photos/chris_grabert/3020063358, https://www.flickr.com/photos/chris_grabert/3020063358, dwg/kreiensen.png"
+DE,Bruchsal,49.1178326357995,8.593237984460284,einspurige Streckenausfädelung,obT,++,"dwg/bruchsal.png"
+DE,Seelze,52.393753692689195,9.581795643147439,Gleisverbindung über Zufahrtsgleis zum BW,obT,++,"dwg/seelze.png"
+DE,Schwetzingen,49.37706097782653,8.580244076800083,klassischer Abzweig Strecke zu Pbf und Gbf,Flachkreuzung,+
+DE,Magdeburg Hbf,52.1398178652063,11.631164941400066,Doppelspur-Trapez,obT,+
+DE,Magdeburg Hbf,52.12462713109965,11.62485833839538,1×2 Streckenkreuzung Gbf – Pbf,Steilkreuzungen obT,+++,"dwg/magdeburg.png"
+DE,Magdeburg Hbf,52.1226846299091,11.622922056780821,2×2 Streckenkreuzung Gbf – Pbf,Steilkreuzungen obT,+++,"https://web.archive.org/web/20200709110726/https://verschiedenes.zusi.de/forum/magdeburg_kreuzungen.jpg, https://verschiedenes.zusi.de/forum/magdeburg_kreuzungen.jpg, dwg/magdeburg.png"
+DE,Magdeburg Hasselbachplatz,52.120617185325,11.624728850770282,verlängerter klassicher Abzweig,obT,+,"dwg/hasselbachplatz.png"
+DE,Magdeburg-Neustadt,52.151822206516,11.647725564375513,Doppelspur-Gleisverbindung mit 1 Kr und 1 DKW,obT,+
+DE,Heidingsfeld,49.764210876044366,9.941047210664173,klassischer Abzweig,Flachkreuzung,+
+DE,Nürnberg Rbf Bw,49.41374818940889,11.088953764179001,Zufahrt zu zwei Drehscheiben KAW,Steilkreuzung obT,++
+DE,Nürnberg Rbf,49.42052118010583,11.069505598746597,Hosenträger WWWW,Steilkreuzung obT,+
+DE,Nürnberg Rbf,49.41757088134467,11.084026005797604,Hosenträger wDDW,Steilkreuzung obT,+
+DE,Nürnberg Rbf,49.41728908114694,11.08582308585109,Hosenträger DwWD,Steilkreuzung obT,+
+DE,Nürnberg Rbf,49.409874665731714,11.104152191155718,asymmetrischer Hosenträger DWDW,Steilkreuzung obT,+
+DE,Nürnberg Rbf,49.41021771866856,11.103064320918456,Abzweig,Steilkreuzung obT,+++
+DE,Nürnberg Rbf,49.41013933841956,11.103332218318357,Abzweig,Steilkreuzung obT,+++
+DE,Nürnberg Langwasser,49.40691087565106,11.130533110325121,schneller Hosenträger $DWW$D,Steilkreuzung obT,+
+DE,Nürnberg Langwasser U-Bahn-Depot,49.410774748074665,11.134877422388358,Hosenträger DWDD,Steilkreuzung obT,+
+DE,Saarbrücken,49.24168310498332,6.958946300097698,klassischer Abzweig mit verlängertem Gleis,obT,+
+DE,Berlin Köpenick,52.45798883735787,13.595843350196402,Doppelspur-Überholung,obT,+++
+DE,Berlin Köpenick,52.45833576779249,13.584204045920186,Doppelspur-Überholung,obT,+++
+DE,Biesdorfer Kreuz,52.52245323604802,13.53784908727123,"klassischer Abzweig, auf der anderen Seite höhenfrei",Bogen-Flachkreuzung,+++
+DE,München Nord Rbf,48.20361223986918,11.470093820009367,Streckenverknüpfung mit Hosenträger $DWW$D,Steilkreuzung obT,+
+DE,Oberhausen,51.47760255144392,6.854488556612682,1×2 Streckenkreuzung,Steilkreuzungen obT,+++
+DE,Oberhausen,51.478228945150775,6.855302716422359,Hosenträger KwWD,Steilkreuzung obT,+++
+DE,Oberhausen,51.47875241405471,6.855534722957748,Hosenträger WWWw,Steilkreuzung obT,+
+DE,Oberhausen,51.4819256277113,6.863022826420485,asymmetrischer Hosenträger DWwW,Steilkreuzung obT,+
+DE,Oberhausen,51.483107302208566,6.849111254950949,Streckenkreuzung und Anschlussgleiskreuzung,2 Steilkreuzungen obT,+++
+DE,Oberhausen,51.48211505155977,6.845300927655511,Hosenträger wDDw,Steilkreuzung obT,+
+DE,Oberhausen,51.477914076063016,6.835002224777499,Hosenträger DDWW,Steilkreuzung obT,+
+DE,Oberhausen,51.47764750939055,6.834592024274136,asymmetrischer Hosenträger WwWW,Steilkreuzung obT,++
+DE,Oberhausen,51.477156216723465,6.832701751109074,Hosenträger WwwW,Steilkreuzung obT,+
+DE,Oberhausen,51.477191979615085,6.8336152858839,Hosenträger WwDD,Steilkreuzung obT,+
+DE,Oberhausen,51.474627216042336,6.827876572720118,Linienbetrieb ↔ Richtungsbetrieb,obT,+++
+DE,Oberhausen,51.46949078210066,6.807799725697968,Hosenträger DDwD,Steilkreuzung obT,+
+DE,Duisburg,51.460385105176925,6.795296771222244,verzogener Hosenträger WDDw,Steilkreuzung obT,++
+DE,Salzbergen,52.32424517019888,7.3491696765763805,klassischer Abzweig,Flachkreuzung,+
+DE,Stralsund,54.28862881333979,13.092492532504988,Einspur-Abzweig,Bogenkreuzung obT,+
+DE,Stralsund,54.300907150946415,13.08448314019188,klassischer Abzweig,obT,+
+DE,Stralsund,54.301578402608065,13.084140973244867,KAW,Steilkreuzung mit gebogenen Herzstücken obT,++
+DE,Stralsund,54.30338333996272,13.081956412446065,Hosenträger DDWD,Steilkreuzung obT,+
+DE,Stralsund,54.30304292366539,13.082183478483245,Hosenträger DDWw,Steilkreuzung obT,+
+DE,Stralsund,54.30233928889238,13.08263488538834,Hosenträger DDDw,Steilkreuzung obT,+
+DE,Stralsund,54.305146660551024,13.080894457345273,Hosenträger DDDD,Steilkreuzung obT,+
+DE,Velgast,54.27656202935283,12.794132207505271,ähnlich Beckedorf,Steilkreuzung obT,+++
+DE,Rheinhafen Neuss,51.22307768038828,6.6998175550764705,1×2 steile Ausfädelung,Bogenkreuzungen obT,+++,img/rheinhafenneuss.jpg
+DE,Trier,49.784174012413345,6.681435457788375,Hosenträger DWDD,Steilkreuzung obT,+
+DE,Trier,49.793624510050904,6.684259569783,Hosenträger DWWD,Steilkreuzung obT,+
+DE,Trier,49.78363025992487,6.6813653974308975,ehem. Zufahrt zum BW kreuzt Strecke,Steilkreuzung obT,+++
+DE,Trier,49.78474768347408,6.682361587978773,Zufahrt zu zwei Drehscheiben,Steilkreuzung obT,+++
+DE,Trier-Ehrang,49.80430498160841,6.686187907574921,1×2 Streckenkreuzung,Steilkreuzungen obT,+++
+DE,Trier-Ehrang,49.80347835234596,6.685975795983486,Abzweig,,++
+DE,Trier,49.76846951790698,6.673834429764359,Hosenträger WDDw,Steilkreuzung obT,+
+DE,Hamburg-Veddel,53.52302604092966,10.00823549244222,,Doppelweiche im Streckengleis,++
+DE,Hamburg-Veddel,53.52316231136876,10.00765487451881,breiter Hosenträger WWD3,Steilkreuzung obT,+++
+DE,Hamburg-Veddel,53.52352970703373,10.005715178964996,Hosenträger DDDW,Steilkreuzung obT,+
+DE,Hamburg-Veddel,53.52504147963262,9.990560655317939,Hosenträger WDww,Steilkreuzung obT,+
+DE,Hamburg-Veddel,53.52544624276684,9.990674451811733,Hosenträger wwDW,Steilkreuzung obT,+
+DE,Hamburg-Hohe Schaar,53.49188390579762,9.975838448307588,,ehem. Super-Steil-Bogenkreuzung obT,+++
+DE,Hamburg-Hohe Schaar,53.49205104435126,9.97682567305626,Hosenträger Wwww,Steilkreuzung obT,+
+DE,Hamburg-Hohe Schaar,53.493056723303525,9.976093114756424,,Steilkreuzung obT,+++
+DE,Celle,52.60610995803924,10.057609505416673,?,Flachkreuzung,+++
+DE,Hamburg-Harburg,53.456913067223915,9.990794004906286,1×3 steile Ausfädelung,3 Steilkreuzungen obT,+++
+DE,Hamburg-Wilhelmsburg,53.504886034490106,10.008158664855168,Doppelspur-Weichenverbindung,Flachkreuzungen,++
+DE,Hamburg-Wilhelmsburg,53.502923825231996,10.007667820602657,klassischer Abzweig,Flachkreuzung,+++
+DE,Hamburg-Hbf,53.55068900649345,10.007316640973544,mit Umfahrung zur EKW,obT,++
+DE,Hamburg-Hbf,53.55626110448722,10.002330831575458,,EIBKW Baesler,+
+DE,Hamburg-Altona,53.55698199482835,9.934832971115402,Hosenträger WWWw,Bogenkreuzung obT,++
+DE,Hamburg-Altona,53.55675782423653,9.935153510332173,asymmetrischer Hosenträger WWWW,Bogenkreuzung,++
+DE,Köln Braunsfeld,50.937222,6.893333,Güterbahn × Straßenbahn,Steilkreuzung obT,+++
+DE,Köln Hbf,50.953343454064004,6.946441013145663,KAW WW,Bogenkreuzung obT,+
+DE,Köln Hbf,50.94988603076532,6.950912489567412,Hosenträger WDDw,Steilkreuzung obT,+
+DE,Köln Hbf,50.949279415093514,6.952042742901977,Hosenträger 3DD3,Steilkreuzung obT,+++
+DE,Köln-Deutz,50.941379058019365,6.9697410669755175,asymmetrischer schneller Hosenträger WWW$e,Bogenkreuzung,++
+DE,Köln-Deutz,50.940627983132025,6.978335762031422,asymmetrischer Hosenträger WDWW,Steilkreuzung obT,+
+DE,Köln-Süd,50.91837632347631,6.947530606830034,klassischer Abzweig rechts,obT,+
+DE,Köln-Zollstock,50.9115034304564,6.93442459336537,Hosenträger WDDD,Steilkreuzung obT,+
+DE,Köln-Süd,50.926928096084204,6.939154648730965,klassischer Abzweig rechts,obT,+
+DE,Köln Hbf,50.94805364581918,6.938694131226548,klassischer Abzweig rechts,obT,+
+DE,Köln-Ehrenfeld,50.947954905130075,6.882316922577538,"verschachtelter Abzweig, Gegengleis höhenfrei",Bogen-Flachkreuzung,++
+DE,Köln-Ehrenfeld,50.94786433921093,6.881068711409708,verschachtelter Abzweig,obT,+
+DE,Köln-Ehrenfeld,50.947712030848784,6.880138240755332,verschachtelter Abzweig,Flachkreuzung,+
+DE,Hamburg Hafen,53.51667,9.912222,Doppelspur-Hosenträger (ein Kreuzungsgleis einspurig),Bogenkreuzungen obT,+++
+CH,Kerzers,46.97427663247871,7.192354326771821,Streckenkreuzung,Steilkreuzung obT,+++
+DE,Bad Schwartau,53.907279453400115,10.692990107711505,klassischer Abzweig rechts,Bogen-Flachkreuzung,+
+DE,Kraftwerk Ibbenbüren,52.287954861889666,7.740099132874952,steiler Doppelspur-Abzweig,5 Bogenkreuzungen,+++
+DE,Kraftwerk Ibbenbüren,52.288595527787976,7.744926919119702,,EABKW Engländer,+++
+DE,Berlin-Ostkreuz,52.506495090373605,13.47967971882834,Doppelspur-Hosenträger wwww,obT,+++
+DE,Berlin-Ostkreuz,52.5058969038512,13.471701694003036,klassischer Abzweig rechts,Bogenkreuzung obT,+
+DE,Berlin-Ostkreuz,52.51132534557466,13.475832955469787,klassischer Abzweig rechts,Bogenkreuzung obT,+
+DE,Berlin-Lichtenberg,52.505415306667814,13.485377409663897,Anbindung Drehscheibe,Steilkreuzung obT,++
+DE,Berlin-Lichtenberg,52.50736057327044,13.491453728631445,1×3 Gleisfeldüberquerung,3 Steilkreuzungen,+++
+DE,Radebeul,51.105556,13.6694,1×2 Schmalspurbahn × Straßenbahn,obT,+++
+DE,Gelsenkirchen-Buer,51.548333,7.041389,1×1 Bahn × Schmalspur-Straßenbahn 90°,Steilkreuzung obT,+++
+DE,Nantenbacher Kurve,50.02710704845204,9.636209347893965,klassischer Abzweig rechts,Flachkreuzung,++
+DE,Kassel Rbf,51.324449005633525,9.461818325681206,1×2 Überquerung der SFS,1:9 obT,+++ 
+DE,Kassel Hbf,51.319959025687105,9.482904432525109,KAW,Steilkreuzung obT,+
+DE,Mainz-Kostheim,50.00629267305926,8.320064332543371,Doppelspur-Gleisverbindung rechts,obT,++
+DE,Abzw. Anger,51.33432130931105,12.425106627266864,klassischer Abzweig links,obT,+
+DE,Hohen Neudorf,52.66629627551808,13.286833172779295,aufgeweiteter klassischer Abzweig S-Bahn,Bogen-Steilkreuzung obT,++
+DE,Henningsdorf Gewerbegebiet Süd,52.623985270253854,13.213152644597585,1x4,Bogen-Supersteilkreuzungen obT,++++
+DE,Berlin-Bornholmer Straße,52.5524763352419,13.399137681587117,klassischer Abzweig links,obT,+
+DE,Berlin-Schönhauser Allee,52.54948214215375,13.411832054488054,klassicher Abzweig links,Flachkreuzung,+
+IT,Mals,46.68347885012844,10.547349342138771,Gleisfünfeck,5 Steilkreuzungen obT,+++
+IT,Oristano,39.90229003294442,8.606005483830604,ehem. Gleisfünfeck,5 Steilkreuzungen obT,+++
+DE,München,48.1475,11.487778,zweispuriger Abzweig aus vierspuriger Strecke,Bogenkreuzungen obT,++++
+DE,München Hirschgarten,48.14358125796051,11.53110299244874,1×2,Steilkreuzungen obT,+++
+DE,München Laim,48.144105719013375,11.513692308351677,Hosenträgerfunktion,Steilkreuzung obT,++
+DE,München Hbf,48.14115168539995,11.546847838842458,Ersatz von EKW / DKW,obT,+++
+DE,München Hbf,48.1412699623554,11.546070284519532,breiter Hosenträger eEWK,Kreuzungen obT,+++
+DE,München Hbf,48.140886473315234,11.55346022403706,asymmetrischer Hosenträger W*DDW,obT,++
+DE,München Hbf,48.142553936175254,11.532042192003779,Doppelspur-Gleisverbindung links,obT,+
+DE,München Westkreuz,48.14709608607098,11.442250320483867,klassischer Abzweig links,Bogen-Flachkreuzung,++
+DE,Leipzig-Leutsch,51.35769832752871,12.31898036948868,Doppelspur-Gleisverbindung rechts,Flachkreuzungen 100 km/h,++
+DE,Dutenhofen,50.56401738739328,8.6054369202246,klassischer Abzweig rechts (Gleise verlaufen aber lange parallel),Flachkreuzung,+
+GB,London Charing Cross,51.50489679548746,-0.11589186343184385,Doppelspur-Gleisverbindung rechts,1× obT 1× Flachkreuzung,+
+GB,London Charing Cross,51.50416071542055,-0.11349269814851967,Doppelspur-Gleisverbindung links,1× BKr obT 1× Flach-BKr,+
+GB,London,51.50419078052604,-0.09645983407064948,Doppelspur-Gleisverbindung rechts,obT,+
+GB,London,51.50426397504849,-0.09590223130584227,klassischer Abzweig rechts,obT,+
+GB,London,51.5048570636802,-0.1023905573472828,klassischer Abzweig,Bogenkreuzung obT,+
+GB,London Cannon Street,51.508403322190695,-0.0917823899084321,2 Hosenträger W33W,obT,++
+GB,London South Bemondsey,51.48916202716631,-0.055501795996592745,klassischer Abzweig links,Bogenkreuzung obT,+
+GB,London,51.48371846166189,-0.043187361841876784,klassischer Abzweig links,Bogenkreuzung obT,+
+GB,London New Cross,51.478499592711216,-0.034156840579953045,Doppelspur-Gleisverbindung rechts,Flachkreuzungen,+
+GB,London St Johns,51.46801933649858,-0.019663004900817144,klassischer Abzweig rechts,Bogenkreuzung obT,+
+GB,London St Johns,51.468017305721915,-0.020234865905811833,klassischer Abzweig links,Bogenkreuzung obT,+
+GB,London Lewisham,51.466174935035205,-0.0152704339888374,Doppelspur-Hosenträger wWWw,obT,+
+GB,London,51.46040814022202,-0.015488180629970314,höhenfreier Doppelspur-Hosenträger,obT,+
+GB,Newark-on-Trent,53.090615927722,-0.80480465162345,2×2 Streckenkreuzung,Supersteilkreuzungen obT 100  mph,+++
+DE,Frankfurt Hbf,50.09742345135216,8.65200203781409,Doppelspur-Abzweig und Gleisverbindung in einem,obT 1:9 Baesler,++
+DE,Frankfurt Hbf,50.09085582162352,8.630507585193856,klassischer Abzweig rechts,obT,+
+DE,Frankfurt-Süd,50.097384226029455,8.68231359574323,klassischer Abzweig Y mit Baesler-EKW,obT,++
+DE,Frankfurt-Süd,50.09775866907848,8.682243422303412,Hosenträger WWWD,Steilkreuzung obT,+
+DE,Frankfurt-Ost Rbf,50.12203566319356,8.734588837256036,KAW wD,obT,+
+AT,St. Pölten,48.20794369521525,15.631166304294025,,obT,++
+AT,St. Pölten,48.21128921228967,15.613800822438153,mit Weichenverbindung zur EKW,obT,+
+DE,Frankfurt,50.09212175874687,8.593541603632946,Radienvergrößerung,2 Bogenkreuzungen obT,+++
+DE,Frankfurt,50.092435337117806,8.593914471227176,Radienvergrößerung,Bogenkreuzung obT,++
+DE,Frankfurt,50.09176561881991,8.589462025655509,Radienvergrößerung,Bogenkreuzung obT,++
+DE,Frankfurt,50.09375366621905,8.586974047638515,,Supersteil-Bogenkreuzungen obT,++
+DE,Frankfurt,50.09434819902286,8.581828444535827,Radienvergrößerung,Bogenkreuzung obT,++
+DE,Frankfurt-Höchst,50.10336531566037,8.550794031046289,Doppelspur-Gleisverbindung,obT,+
+DE,Frankfurt-Höchst,50.1032452710131,8.544855103148592,asymmetrischer Hosenträger eDwe,obT,+
+DE,Frankfurt-Höchst Farbwerke,50.09963108751968,8.532754133114217,steile Ausfädelung,2 Bogenkreuzungen obT und 1 Kreuzung obT,+++
+DE,Frankfurt-Höchst Farbwerke,50.09403977531761,8.523391174989149,,Bogenkreuzung obT,+++
+DE,Frankfurt-Höchst Farbwerke,50.091716330058276,8.517984937450102,breite KAW DW,Steilkreuzung obT,++
+DE,Frankfurt-Höchst Industriepark,50.07940534118787,8.526644357349856,KAW,Steilkreuzung obT,+
+DE,Frankfurt-Höchst,50.092759229572316,8.51614957070787,Zufahrt zu Kehrgleis,1:9 obT,+++
+DE,Frankfurt am Main Stadion,50.067275374442815,8.629339191073218,Einspur-Abzweig aufgeweitet,obT,+
+DE,Mannheim Hbf,49.470015805929286,8.48876562477084,klassischer Abzweig links,Flachkreuzung,+
+DE,Mannheim Hbf,49.467710235248056,8.494216897127899,klassischer Abzweig links,Flachkreuzung,+
+DE,Mannheim Hbf,49.466206491339356,8.49780951209711,klassischer Abzweig in Gbf rechts,obT,++
+DE,Mannheim Hbf,49.465473002387235,8.499884319554395,Umfahrung Gbf Überwerfungsbauwerk hinterher,obT,+++
+DE,Mannheim Hbf,49.46489654734343,8.501401621351404,Umfahrung Gbf,obT,+++
+DE,UA Rheingau,49.442860091121936,8.544840210897853,Umspannwerk,obT,?
+DE,UA Rheingau,49.44078668516027,8.546000763357645,Umspannwerk,ehem. Drehscheibe,+
+DE,UA Rheingau,49.440235724714036,8.546051894853447,Umspannwerk,ehem. Drehscheibe,+
+DE,UA Rheingau,49.44041540962363,8.546031371871376,Umspannwerk,90° Normalspur × Schmalspur,++
+DE,Mannheim-Friedrichsfeld Süd,49.44024180439232,8.566882640079294,klassicher Abzweig,Bogen-Flachkreuzung,+
+DE,Mannheim-Friedrichsfeld Süd,49.42747985242316,8.569610453152526,klassicher Abzweig,Flachkreuzung,+
+DE,Mannheim Hafen,49.49913235129916,8.44721247766988,Gleisharfe,sehr niedriger Gleisabstand,+++
+DE,Leipzig Hbf,51.34883336654046,12.385777929453553,klassischer Abzweig mit zwei zusätzlichen Kr,obT,+++
+DE,Leipzig Hbf,51.34941575004249,12.385558015500783,1x2,obT,+++
+DE,Leipzig Hbf,51.348697726349634,12.384191099095686,KAW wW,obT,++
+DE,Leipzig Hbf,51.34814235354127,12.383422984620289,schneller Hosenträger wWWw,Steilkreuzung obT,+
+DE,Mönchengladbach Hbf,51.19814258752303,6.448006724179422,,DBKW,+
+DE,Düsseldorf Hbf,51.218359109507105,6.792685441820087,zwei Hosenträger,obT,+
+DE,Düsseldorf Hbf,51.216602093982914,6.790325293639742,Hosenträger DWDD,Steilkreuzung obT,+
+US,Griffith,41.52024661739406,-87.42751605071761,2^3,obT,+++,img/griffith.jpg
+DE,Bremerhaven-Wulsdorf,53.50745985885715,8.614017901715252,aufgeweiteter Abzweig,Steilkreuzung obT,+
+DE,Bremerhaven Hafen,53.57087799744865,8.56301333233764,Anschlussgleis kreuzt,obT,++
+DE,Darmstadt Nord,49.89276686082618,8.658059013581763,,obT,+++
+DE,Darmstadt Nord,49.892130337596875,8.6521328743966,Abzweig,obT,++
+DE,Kranichstein,49.91244566206314,8.687748798070054,klassischer Abzweig rechts,obT,+
+DE,Mainaschaff,49.98251264939227,9.082625441054338,klassischer Abzweig links,obT,+
+DE,Mainaschaff,49.98791730971114,9.087325949102464,klassischer Abzweig rechts,obT,+
+DE,Memmingen,47.97225314046658,10.187349722202855,KAW,Bogenkreuzung obT,+
+DE,Stuttgart Schmidener Straße,48.81355051305625,9.232036076677492,Engstelle,Gleisverschlingung Straßenbahn,+
+DE,Köln-Niehl Fordwerke,51.018634,6.955452,Anschlussgleis × Straßenbahn,2 Bogenkreuzungen obT,++
+DE,Köln-Niehl Fordwerke,51.0106962,6.9554280,Anschlussgleis × Straßenbahn,2 Kreuzungen obT,++
+DE,Köln-Niehl Fordwerke,50.9972128,6.9550893,Anschlussgleis × Straßenbahn,2 Kreuzungen obT,++
+DE,Köln-Niehl Fordwerke,50.9967938,6.9550679,Anschlussgleis × Straßenbahn,2 Kreuzungen obT,++
+DE,Recklinghausen-Süd,51.561592679168356,7.195542071487088,,obT,++
+DE,Recklinghausen-Süd,51.55720836491235,7.187411753627955,ehemalige Streckenkreuzung,,+
+DE,Herne,51.54687250240166,7.189290332696815,klassischer Abzweig,Flachkreuzung,+
+DE,Wanne-Eickel Gbf,51.53772718133749,7.185583678187091,klassischer Abzweig,obT,++
+DE,Wanne-Eickel Hbf,51.53300983216431,7.170210368784482,Ansammlung von Kreuzungen,,+++
+DE,Gelsenkirchen-Bismarck,51.54156496199871,7.1363803072162275,Abzweig mit Baesler-EKW,,+
+DE,Gelsenkirchen-Bismarck,51.539649934246754,7.122507471601481,klassischer Abzweig rechts,obT,++
+DE,Gelsenkirchen-Zoo,51.5361617351951,7.094435780359087,Ersatz für EKW,,+++
+DE,Mainz Hbf,49.99871922648106,8.260701873769746,,Steilkreuzung obT,+++
+DE,Mainz Hbf,49.99927931173137,8.260361032747433,,Steilkreuzung obT,+++
+DE,Rauenstein,50.41159864903049,11.04655753933711,Hosenträger WWWW mit Rückfallweichen,Steilkreuzung obT,+++
+DE,Golm,52.40675861173398,12.971002780240601,Hosenträger WWWW 4-Spur-Überleitstelle,Steilkreuzung obT,++
+DE,Hannover Hbf,52.373056,9.753611,Hosenträger DW3D,Steilkreuzung obT,++
+DE,Misburg Schwellenwerk,52.376111,9.867778,,2 Supersteilkreuzungen,+++
+DE,Hafen Misburg,52.381667,9.853333,Gleisharfe,Bogen-DW,+++
+DE,Lehrte,52.378056,9.972778,1×2,Steilkreuzungen obT,++
+DE,Lehrte,52.38348361016979,9.97248035680333,asymmetrischer Hosenträger Y*YwW,Steilkreuzung obT,+
+DE,Lehrte,52.38467150860326,9.973018125201648,klassischer Abzweig rechts,obT,+
+DE,Köln-Poll,50.91636250028144,6.994030506125248,1×2 Bahn × Straßenbahn,2 Bogenkreuzungen obT,+++,"https://commons.wikimedia.org/wiki/File:Gleiskreuz_HGK-KVB%2c_K%C3%B6ln-Poll.jpg"
+DE,Köln-Kalk,50.930376942139404,7.016078896372725,Doppelspur-Gleisverbindung rechts,obT,+
+DE,Erfurt-Nord,51.00910292875028,11.033001758580834,1×2 Bahn × Straßenbahn,2 Bogenkreuzungen obT,+++,https://www.bahnbilder.de/bild/Deutschland~Bahntechnische+Anlagen+und+Kunstbauten~Schienen-Schienen-Kreuzungen/611417/im-norden-von-erfurt-kreuzt-das.html
+AT,Wien Semperit,48.00922445920386,16.28923093128537,Industriegebiet,Steil-Bogenkreuzung,+++,https://commons.wikimedia.org/wiki/File:AB_Semperit_Gleiskreuzung.jpg
+DE,Heringen (Werra),50.8841106969587,9.99009915693418,ehem. Streckenkreuzung,Steil-Bogenkreuzung,++,"https://web.archive.org/web/20200710174121/http://www.vergessene-bahnen.de/Ex504_1cc.htm, http://www.vergessene-bahnen.de/Ex504_1cc.htm"
+CH,Zürich-Kloten,47.448575,8.599190,zwei Industrieanschlüsse,Weichenverschlingung,++++,"img/weichenverschlingung.jpg,https://web.archive.org/web/20200731194139/http://157949.homepagemodules.de/t1291f73-Das-ist-keine-DKW.html, http://157949.homepagemodules.de/t1291f73-Das-ist-keine-DKW.html"
+CH,Zürich-Kloten,47.447136,8.596693,Kreuzung über Nebengleis,obT,+++
+DE,Kirchenlaibach,49.870026,11.769119,Abzweig,EKW Baesler,+
+DE,Kirchenlaibach,49.869613,11.782896,Abzweig,EKW Baesler,+
+ES,Irun,43.333603,-1.810754, Überquerung der Breitspurgleise,obT,+++,"https://web.archive.org/web/20200713190157/https://pbs.twimg.com/media/EZgwKrvUMAQMCeD?format=jpg&name=small, https://pbs.twimg.com/media/EZgwKrvUMAQMCeD?format=jpg&name=small"
+NL,NL,,,,Weichenverschlingung,+++,"https://web.archive.org/web/20200713190714/http://forum.mjf.no/sandnes-stasjon-som-fremodul_topic2728_page3.html, http://forum.mjf.no/sandnes-stasjon-som-fremodul_topic2728_page3.html"
+DE,Flieden,50.427022,9.585041,asymmetrischer Hosenträger auf freier Strecke,Steilkreuzung obT,++
+CH,Oberentfelden,47.355271,8.046697,Strekckenkreuzung,Super-Steilbogenkreuzung obT,+
+DE,Leizpig Hbf,51.350744,12.392633,1×2 und KAW,Steilkreuzungen obT,+++
+DE,Leipzig Hbf,51.350138,12.398940,asymmetrischer Hosenträger D$DEe,Steilkreuzung obT,+
+DE,Leipzig-Engelsdorf,51.343640,12.439178,1×2 und klassischer Abzweig links,obT, ++
+DE,Leizpig-Engelsdorf,51.343910,12.456412,klassicher Abzweig links,Bogen-Flachkreuzung,+
+DE,Leipzig-Engelsdorf,51.343823,12.458564,Hosenträger KWDW,obT,+++,"dwg/leipzigengelsdorf.PNG"
+DE,Leipzig-Engelsdorf,51.343204,12.465372,zwei KAW,obT,++
+DE,Leipzig-Engelsdorf,51.343372,12.465517,1×1,Steilkreuzung obT,+++?
+DE,Leipzig-Engelsdorf,51.343485,12.468266,steile KAW wD,obT,++
+DE,Riesa,51.311057,13.292990,Hosenträger auf freier Strecke WWWW,Steilkreuzung obT,++
+DE,Riesa,51.309160,13.284590,Abzweig Strecke führt über abzweigende Baesler-EKW,obT,+
+DE,Leipzig-Schönefeld,51.350033,12.436368,Doppelspur-Streckenkreuzung mit EKW und DKW,,++
+DE,Ludwigshafen BASF,49.525618,8.424916,KAW,Steilkreuzung obT,+
+DE,Ludwigshafen BASF,49.527573,8.423909,KAW,Steilkreuzung obT,+
+DE,Ludwigshafen BASF Mitte,49.508584,8.432747,Streckenkreuzung,obT,++
+DE,Rastatt, 48.865397,8.224111 ,klassischer Abzweig in beide Richtungen,Flachkreuzung,+
+DE,Karlsruhe,48.988889,8.395422,klassischer Abzweig mit großer Aufweitung,Flachkreuzung,++
+DE,Karlsruhe,48.988894,8.395142,Zufahrt zum Gbf (Streckenkreuzung),Steilkreuzung obT,+++
+PL,Starczów,50.537063,16.908323,Streckenkreuzung,2 Steilkreuzungen obT,++
+FR, Châtillon-sur-Seine, 47.8701502, 4.5706773, Gleisharfe, symm. DW, +, https://commons.m.wikimedia.org/wiki/File:Doppelweiche_P1080064.jpg#
+DE, Dresden, 51.053450, 13.715891, Streckenkreuzung 1 × 3, Steilkreuzungen obT, ++
+DE, Elze (Han), 52.115819, 9.744316, Abzweig links, Flach-Bogenkreuzung, +++ 
+IR, Dublin, 53.354638, -6.243302, mit Weichenverbindung zur EKW, obT, +
+DE, Saarmund, 52.324823, 13.126525, klassischer Abzweig links, Flachkreuzung 100 km/h, +
+DE, Neukieritzsch, 51.147943, 12.414343, mit Weichenverbindung zur EKW, obT, ++
+DE, Fürth, 49.468865, 10.994113, klassischer Abzweig Y, Flach-Bogenkreuzung, +
+DE, Oberhausen Abzw. Grafenbusch, 51.50091399082698, 6.861022545901585, Abzweig zweigleisig ↔ zweimal eingleisig, obT, ++
+DE, Oberhausen Osterfeld Museum, 51.50170497803604, 6.897869710856348, Doppelspur-Gleisverbindung rechts, obT, +
+DE, Oberhausen Osterfeld Museum, 51.50082338001382, 6.89503725539188, Hosenträger wWwW, obT, +
+DE, Wunstorf, 52.42052889086884, 9.45869037009957, klassischer Abzweig rechts, Bogen-Flachkreuzung, +
+DE, Bönen, 51.61482498095045, 7.768698389766287, klassischer Abzweig links, Bogen-Flachkreuzung, +
+DE, Schwerte (Ruhr), 51.440021425705815, 7.557801117842972, klassischer Abzweig links, Flachkreuzung, +
+DE, Schwerte (Ruhr), 51.44469700560328, 7.560933512680569, breiter Hosenträger, Bogenkreuzung obT, ++
+NO, Hell, 63.44615410851951, 10.90189133433304, Hosenträger wWDW, Steilkreuzung obT, +
+IT, Bologna, 44.498552280334074, 11.375099552084384, klassischer Abzweig links, obT, +
+IT, Bologna, 44.49974150497768, 11.375259541095346, klassischer Abzweig rechts, obT, +
+IT, Bologna, 44.50496416021066, 11.350538620323551, 1×2, Steilkreuzungen obT, +++
+IT, Bologna, 44.50601222198708, 11.3467761458062, 1×2, Steilkreuzungen obT, +++
+IT, Bologna, 44.50692182749249, 11.339128538170803, ?, Steilkreuzung obT, +++
+IT, Bologna, 44.50764062407079, 11.332678245533142, 1×2, Steilkreuzungen obT, +++
+FR, Paris Saint-Denis, 48.94295061539926, 2.3432497588258197, KAW mit einseitiger DKW, 2 Kreuzungen obT, +++, img/paris.PNG
+FR, Paris Le Blanc-Mesnil, 48.93196410534335, 2.4720213264652, Streckenkreuzung, obT, +++
+FR, Paris Aulnay-sous-Bois, 48.93199159582671, 2.4991613202089114, Vollbahn kreuzt Strab, 2 Kreuzungen obT, ++
+FR, Paris Bobigny, 48.91139256204973, 2.430501148523167, merkwürdiger Doppelspur-Hosenträger, 3 Kreuzungen obT, +++
+FR, Paris Villeneuve-Saint-Georges, 48.755866974936325, 2.4381986451936193, Einspur-Abzweig, obT, +
+DK, Københavns Hovedbanegård, 55.67004777768865, 12.566099864551463, zum Richtungswechsel, Bogenkreuzung obT, ++
+DK, Københavns Hovedbanegård, 55.669232447938676, 12.56582126578679, zum Richtungswechsel, Bogenkreuzung obT, ++
+US, Jersey City, 40.72503256874258, -74.05623153311504, Kreuzungen in Industriegelände, 3 Steil-Bogenkreuzunbgen obT, ++
+US, Jersey City, 40.677652825353015, -74.08547105974979, KAW im Bahnübergang, Bogenkreuzung obT, +
+US, Jersey City, 40.66219940219224, -74.11569938383214, Hosenträger WWWW auf freier Strecke, obT, ++
+US, Jersey City, 40.65629609725467, -74.1030323002577, breite KAW, Bogenkreuzung obT, +
+US, Cumru Township, 40.31598242177804, -75.90767485419202, Zweispur ↔ 2 × Einspur, Flachkreuzung, +
+CH, Ittingen, 46.977885, 7.457334, Dreifach-Abzweig, Schmalspur obT, +++
+CH, Zollikofen,46.999047, 7.461587, Normalspur kreuzt 2 × Schmalspur, Bogenkreuzungen obT †, +, "img/zollikofen.PNG"
+CH, Zollikofen,46.99823946,7.46301004, Hosenträger in Straße, obT †, +, "img/zollikofen2.PNG"
+CH, Bern, 47.08651804681669, 7.30875559579636, KAW, obT, +
+CH, Nidau, 47.10742695721398, 7.306577430776279, Hosenträger DWWw, obT, +
+CH, Muttenz, 47.53973475606778, 7.632085585916947, Streckenkreuzung, 3 Steilkreuzungen obT, ++
+CH, Gundeldingen, 47.54540393091061, 7.594354763138009, Hosenträger mit zwei Querträgern, 2 Steilkreuzungen obT, ++
+IT, Nizza, 43.71712465855116, 7.289854848304913, Zufahrt zum Depot mit Platzmangel, 2 Steilkreuzungen obT, +++
+IT, Genua, 44.40687526019199, 8.94915760584926, schmaler Hosenträger WWWW bei Straßenbahn, , +
+IT, La Spezia, 44.119815442922224, 9.834203055196438, Gleisdreieck, , +
+IT, La Spezia, 44.12035526654815, 9.83509202251783, Zufahrt zum Gleisdreieck, Steilkreuzung obT, +++
+IT, Pisa Centrale, 43.70548785031376, 10.40554652367177, ergibt keinen Sinn, Kreuzungen obT, +
+IT, Rom, 41.89498916142177, 12.511332642376882, Doppelspur-Hosenträger, Kreuzungen obT, ++
+ES, Barcelona Hafen, 41.35056028277013, 2.1557354818781183, KAW, Bogenkreuzung obT, ++
+ES, Rubí Barcelona, 41.481091234620386, 2.037557904259209, Hosenträger WWWW, Dreischienen-Kreuzung, +++
+DE, Kraftwerk Lingen (Ems), 52.471496680098554, 7.3172537730531815, praktisch KAW, Bogen-Supersteilkreuzung, ++
+DE, Lingen (Ems), 52.47492857638891, 7.321076771837881, breiter Hosenträger, Steilkreuzung obT, ++
+FR, Portbou, 42.44147687992289, 3.1603405625085053, Gleisdreieck, Bogen-Steilkreuzung obT, ++
+RU, Ladushki, 54.56998839365758, 20.174484106775388, Normalspur × Breitspur, obT, +
+RU, Mamonowo, 54.4611489243954, 19.927483278914668, Normalspur × Breitspur, obT, +
+DE, Hamburg-Barmbeck, 53.586944,10.045833, S-Bahn Hosenträger 3WWW,obT, ++
+DE, Hamm Gbf, 51.668486, 7.807329, Ausfahrt, obT, ++
+DE, Hamm Gbf, 51.67110775029386, 7.809136570431504, 2 × 1, obT, ++
+DE, München Pasing, 48.14779534926318, 11.47487927151013, Kreuzung durch Hauptstrecke 2 × 1, obT, +++
+DE, Bochum thyssenkrupp, 51.47591934852983, 7.166213128083694, Zufahrt zu Fabrik, 2 × 1, 2 Supersteilkreuzungen obT, +++
+DE, Bochum thyssenkrupp, 51.47680878511751, 7.163734819398607, Zufahrt zu Fabrik, 3 × 1, 3 Steilkreuzungen obT, +++
+ES, Hafen Valencia, 39.426108960935856, -0.32103392423103455, Weichen zum Lok umsetzen, , +++
+US, Sandpoint Idaloho, 48.286987517406104, -116.5537499451827, Streckenkreuzung, Steilkreuzung obT, ++
+US, Duluth Minnesota, 46.757034368838156, -92.10313692701776, Harfe, Sechswegweiche, +++
+US, Duluth Minnesota, 46.76669837785582, -92.11860677571823, praktisch KaW 1 × 2, 2 Steilkreuzungen obT, ++
+DE, Oberhausen Carl Spaeter, 51.47148577418885, 6.8450095327237745, Zufahrt zu Fabrik, Doppelweiche Rechts-Links, + 
+DE, Mülheim (Ruhr), 51.445893514076104, 6.86900137174731, Doppel-KaW, Steilkreuzungen obT, ++
+DE, Mülheim (Ruhr), 51.45741703439474, 6.8777760032599495, Zufahrt zu Fabrik, Bogen-Supersteilkreuzung, +++
+NL, Gent, 51.07213650909516, 3.7429133214470074, Streckenkreuzung, Steilkreuzung obT, +++
+NL, Gent, 51.08038677973346, 3.7340214424142064, riesiger Hosenträger über Hafenrampe, Steilkreuzung obT, ++
+BE, Brügge Bombardier Transportation, 51.19020977761774, 3.2240147457001256, Dreischienengleis kreuzt Normalspur, obT, +++
+BE, Brügge Bombardier Transportation, 51.187938854252856, 3.2289764149909685, Zufahrt zu Fabrik, Dreischienengleisharfe, +++
+DE, Stiege (Harz), 51.66077644058849, 10.881038880381436, Bahnhof mit Rückfallweichen, Schmalspur obT, ++++
+DE, Nordhausen Nord, 51.493907887148126, 10.786186466023858, KaW ww, obT, ++
+DE, Nordhausen, 51.49279385704527, 10.780693756946219, Zufahrt zu Drehscheibe, ++
+ZA, Port Elizabeth, -33.96987751155716, 25.632047623399227, Kreuzung Kapspur ↔ Normalspur, obT, ++
+ZA, Port Elizabeth, -33.961207315097965, 25.626447615467324, Wendeschleife Kapspur kreuzt Normalspur, Bogenkreuzungen obT, +++
+ZA, Port Elizabeth, -33.96219162143211, 25.62859131654796, Kreuzung Kapspur ↔ Normalspur, obT, ++
+US, Fresno, 36.72143348720416, -119.77247295274272, 2 × 1, 90° obT, ++
+US, Eugene, 44.060389112666385, -123.13141871405466, Streckenkreuzung, Supersteilkreuzung obT, ++
+US, Eugene, 44.058680902083076, -123.12957113336937, Zufahrt zu Fabrik, Steil-Bogenkreuzung obT, ++
+US, Portland, 45.564995566497075, -122.74689676181019, KaW, Steilkreuzung obT, +
+CA, Toronto, 43.675508385008435, -79.33054764590891, ausgelagertes Abstellgleis, obT, +++
+AT, Wien Erdberg, 48.18258673828013, 16.43405669881952, Zufahrt zu Fabrik, Supersteilkreuzungen obT, +++
+AT, Wiener Linien Hauptwerke, 48.1435190874387, 16.457338618614333, Straßenbahn, Supersteilkreuzungen obT, +++
+AT, Eisenbahnmuseum Schwechat, 48.14408859912518, 16.482216997718115, Feldbahn × Normalspur, Steilkreuzungen obT, +++
+AT, Eisenbahnmuseum Schwechat, 48.145249169026826, 16.480035241308123, Abstellgleiskreuzung, Steil-Bogenkreuzung obT, +++
+AT, Wien, 48.14574866259738, 16.4918042516789, Hosenträger zur Maximierung der Stelllänge, obT, ++
+AT, Wien Simmering, 48.271919199529314, 16.428346772737836, Gleis kreuzt Gleisharfe, Supersteil-Bogenkreuzungen obT, ++++
+FR, Paris, 48.87472271245872, 2.6051577941259842, Ansammlung von Kreuzungen, Steilkreuzungen obT, +++
+IT, Novara, 45.45036272623153, 8.627402171640574, Kreuzung, obT, +++
+IT, Livorno, 43.5864546902337, 10.321954509766233, praktisch KaW, obT, +++
+AU, Brisbane Roma Street Station, -27.465418961006293, 153.0189859866295, Dreischienengleis und viele Kreuzungen,, +++
+AU, Brisbane Yeerongpilly Station, -27.526655117337217, 153.01332252473745, Dreischienengleis und viele Kreuzungen,,+++
+AU, Brisbane, -27.548176559879998, 153.0188041039855, Normalspur kreuzt Schmalspur, Bogenkreuzungen obT, ++
+DE, Duisburg Krupp, 51.36988379191602, 6.72911161979686, Zufahrt zu Fabrik, Bogen-Steilkreuzung obT, +++
+DE, Duisburg Krupp, 51.3730048992126, 6.721428439311488, KAW, Bogenkreuzung obT, ++
+DE,51.53510744536113, 7.4407872214845, Dortmund Hafen, verlängerte KaWs,Supersteilbogenkreuzungen obT, +++
+DE,51.556452094731675, 7.251833135279733,Herne,???,Flachkreuzung,+++ 
+DE,51.668282761167966, 7.80327775152091,Hamm,Zufahrt zu Fabrik,2 Supersteilkreuzungen obT,+++
+FR,47.75089446843098, 7.294645066950847, Mulhouse,?,Fünfwegweiche,+++,"mulhouse1.jpg,mulhouse2.jpg"
+DE,49.15384298217326, 9.2181079018739, Heilbronn Industrieplatz,Industriegleis kreuzt Straßenbahn und Gleisverschlingung,obT,+++
+DE,49.15594431243815, 9.218173199568833,Heilbronn Industrieplatz, Ausfädelung,Gleisverschlingungsausfädelung,++
+DE,49.16311994616975, 9.219792754795424,Heilbronn Hans-Rieser-Platz, Industriegleis kreuzt Straßenbahn, Bogenkreuzungen obT,+++
+DE,49.16934929454587, 9.207420115661419,Heilbronn Karl-Wüst-Straße,KaW, Bogenkreuzung obT,++
+DE,49.17335491260837, 9.207344932881746,Heilbronn Kohlekraftwerk, Fabrikzufahrt,Supersteil-Bogenkreuzung obT,++
+DE,49.174825788916024, 9.208609683592664,Heilbronn Kohlekraftwerk,Kreuzung in Fabrik,Supersteil-Bogenkreuzung obT,++
+DE,49.16592834985425, 9.224721788550257,Heilbronn Läpple,Industriegleis kreuzt Straßenbahn, 2 Bogenkreuzungen obT, +++
+DE,49.14145216110517, 9.202155904479959,Heilbronn Hbf,Ansammlung von Kreuzungen,4 Kreuzungen obT,+++
+DE,50.99163060880439, 11.317991047791429,Weimar Hbf, klassischer Abzweig,Kreuzung obT,+
+DE,49.23230384129676, 9.197635376925305,Heilbronn Hbf,KaW,Steilkreuzung obT,++
+CZ,50.06711656565439, 12.379933808341502,Cheb,Streckenkreuzung da Gbf auf gegenüberliegender Seite, 2 Kreuzungen obT, ++
+DE,49.43190633292147, 11.12780680901395, Nürnberg Dutzendteich, Streckenkreuzung, 2 Kreuzungen obT, ?
+DE,51.39614559689086, 7.1723453333471285, Westfälische Lokomotivfabrik Reuschling GmbH & Co. KG, schönes kompaktes Industrielayout, Drehscheibe
+
+
+# https://web.archive.org/web/20200713191132/https://twitter.com/hashtag/%E3%83%A0%E3%83%A9%E3%82%AF%E3%83%A2%E6%A1%88%E4%BB%B6
+# http://web.archive.org/web/20191130233325/http://www.klauserbeck.de/Kilometrierung/Tabelle8/BraunschweigHelmstedt/BraunschweigHelmstedt.htm
+# Erklärung zu den Hosenträgern: W := einfache Weiche gerade, w := einfache Weiche abzweigend, D := DKW Engländer, E := EKW mit Verbindung einer W, e := EKW mit Verbindung einer w, 3 := Doppelweiche, Zählweise mathematisch
+# KW mit $ davor: Baesler, mit * davor: irgendwas besonderes
