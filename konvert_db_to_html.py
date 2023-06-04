@@ -86,6 +86,7 @@ class Eintrag:
             table_entries.update({"RATING": self.__rating_entry()})
             table_entries.update({"MAP_LINK": self.__map_entry()})
             table_entries.update({"IMG_LINK": self.__img_link()})
+            table_entries.update({"TECHNOLOGY": "" if table_entries["TECHNOLOGY"] is None else table_entries["TECHNOLOGY"]})
         yield "<tr>"
         for headline in OUTPUT_COL_HEADLINES:
             if not self.is_headline:
@@ -172,6 +173,8 @@ def write_file(content, filename=EXPORT_FILENAME):
         theadrows.append("\t\t\t\t\t\t{}".format(line))
     trows = []
     for entry in content[1:]:
+        if entry.cells["COUNTRY"] == "CH":
+            pass
         for line in entry.to_html():
             trows.append("\t\t\t\t\t\t{}".format(line))
 
